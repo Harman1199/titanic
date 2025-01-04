@@ -1,2 +1,1 @@
-/datasets/train.csv
-/datasets/test.csv
+*.csv
